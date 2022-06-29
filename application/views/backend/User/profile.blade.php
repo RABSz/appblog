@@ -1,6 +1,5 @@
 @extends('template.backend.theme')
 
-
 @section('content')
 <br>
 <br>
